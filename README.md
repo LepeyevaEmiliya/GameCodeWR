@@ -23,3 +23,6 @@
 - WallRunCharacter.h
   
 - WallRunCharacter.cpp
+
+# Демонстрация механики (видео):
+https://drive.google.com/file/d/1JQVkoPGkkIDPphiDsryv-_OZm1IN4fVC/view?usp=sharing
